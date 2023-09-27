@@ -1,10 +1,10 @@
-# Smart-home-project
+# Secure Smart Home-project
 
 **Introduction**
 
 The Secure Smart Home Project is a DIY home automation system that enhances the security and convenience of your home. This project uses a combination of sensors and the Blynk app to monitor and control various aspects of your home, ensuring that it is both secure and efficient. Whether you want to monitor your home's security, control lighting and appliances, or receive alerts for unusual activities, this project has got you covered.
 
-![1](https://github.com/Anandprati/smart-home-project/assets/94226733/b240482a-eed6-4ccf-8173-a6d42f72ee0c)  ![2](https://github.com/Anandprati/smart-home-project/assets/94226733/8ef490cf-7daf-4a8e-bf64-e97d2b1f9ae0)
+![1](https://github.com/Anandprati/smart-home-project/assets/94226733/b240482a-eed6-4ccf-8173-a6d42f72ee0c)e97d2b1f9ae0)
 
 
 **Features**
@@ -19,13 +19,29 @@ Customization: Tailor the system to your needs by adding more sensors and device
 
 To set up the Secure Smart Home Project, you will need the following hardware components:
 
-Arduino or ESP8266/ESP32 (NodeMCU)
-Motion sensors
-Door/window sensors
-Relay modules
-LED lights (for testing)
-Blynk-compatible smartphone
-You can find detailed information about the required hardware in the hardware_setup.md documentation.
+• Arduino Board
+
+• PIR sensor
+
+• LDR sensor
+
+• Relay Connector
+
+• Raspberry Pi
+
+• Cables
+
+• Temperature Sensor
+
+• LED
+
+• Breadboard
+
+• Jumper Wires
+
+• Buzzer
+
+• Raspberry Pi Display
 
 **Software Requirements**
 
@@ -50,6 +66,7 @@ Create a Blynk account and configure the Blynk app according to the instructions
 Customize the Arduino sketch to match your specific hardware configuration and Blynk app project settings.
 Connect your sensors and devices as per the hardware setup guide.
 Power up your project and start controlling your smart home securely!
+
 ![image](https://github.com/Anandprati/smart-home-project/assets/94226733/0bf70512-61bc-4237-b0a7-5941ed9dabd6)
 
 
