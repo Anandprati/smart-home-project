@@ -71,6 +71,11 @@ Power up your project and start controlling your smart home securely!
 
 ![image](https://github.com/Anandprati/smart-home-project/assets/94226733/0bf70512-61bc-4237-b0a7-5941ed9dabd6)
 
+**Protocol for Security Purpose**
+
+Securing your smart home is essential in an increasingly connected world. Ensuring the security of connections between your smartphone and the various devices in your smart home is crucial for protecting your privacy and preventing unauthorized access. One protocol that establishes a secure connection between your phone and smart home devices.
+
+![image](https://github.com/Anandprati/smart-home-project/assets/94226733/6d15dd2c-b3cd-4085-ad2f-3b39cd96a741)
 
 **Usage**
 
