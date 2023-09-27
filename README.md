@@ -51,7 +51,9 @@ Arduino IDE
 Blynk App
 Blynk Library for Arduino
 Additional libraries for specific sensors and devices (e.g., Adafruit sensors)
-Detailed software setup instructions can be found in the software_setup.md documentation.
+
+![Screenshot 2023-09-27 144425](https://github.com/Anandprati/smart-home-project/assets/94226733/9d4c315e-366e-4376-bd41-404e0fc1fd86)
+
 
 Installation
 Clone this repository to your local machine:
